@@ -50,8 +50,9 @@ Just to have fun and challenge myself by solving increasingly complex programmin
 - [ ] Day 31
 
 ## Languages Used
-TBD (Depending on the specific challenges)
-
+- Python
+- In future will convert to Golang
+  
 ## Personal Goals
 - Learn new algorithms
 - Improve problem-solving skills
